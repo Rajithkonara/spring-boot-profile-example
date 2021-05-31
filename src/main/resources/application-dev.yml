@@ -4,4 +4,4 @@ server:
 spring:
   application:
     welcomeMessage: Welcome to development
-    x-ApiKey: dev-123
+    XApiKey: dev-123
