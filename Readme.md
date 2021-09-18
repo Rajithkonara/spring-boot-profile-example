@@ -2,7 +2,7 @@
 
 This is a sample spring-boot project to demonstrate using different profiles with spring boot.
 
-Blog post: 
+Blog post: https://www.rajith.me/2021/05/spring-boot-profiles-separate-your-prod.html
 
 ## Requirements
 * Java 8
